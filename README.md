@@ -1,0 +1,1 @@
+My clang-format configuration
